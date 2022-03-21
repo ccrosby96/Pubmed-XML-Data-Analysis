@@ -29,8 +29,8 @@ knitr::include_graphics('https://imgur.com/a/Y3CLANE')
 library(RMySQL)
 library(DBI)
 # 2. Settings
-db_user <- 'admin'
-db_password <- 'SQLlite10!'
+db_user <- '**username**'
+db_password <- '**some_password**'
 db_name <- 'database2'
 db_host <- 'database2.cdzicwecvvdd.us-east-2.rds.amazonaws.com'
 db_port <- 3306
